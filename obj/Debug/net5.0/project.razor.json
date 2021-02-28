@@ -15603,8 +15603,18 @@
   "RootNamespace": "AgendadorVacina",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\AgendadorVacina\\Welcome.cshtml",
+      "TargetPath": "Views\\AgendadorVacina\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Paciente\\Index.cshtml",
+      "TargetPath": "Views\\Paciente\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15618,8 +15628,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\AgendarVacina\\Index.cshtml",
-      "TargetPath": "Views\\AgendarVacina\\Index.cshtml",
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Local\\Index.cshtml",
+      "TargetPath": "Views\\Local\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\AgendadorVacina\\Index.cshtml",
+      "TargetPath": "Views\\AgendadorVacina\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15638,8 +15653,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\AgendarVacina\\Welcome.cshtml",
-      "TargetPath": "Views\\AgendarVacina\\Welcome.cshtml",
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Usuario\\Index.cshtml",
+      "TargetPath": "Views\\Usuario\\Index.cshtml",
       "FileKind": "mvc"
     },
     {

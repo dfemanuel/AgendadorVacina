@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using AgendadorVacina.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace AgendadorVacina
 {
@@ -24,6 +26,9 @@ namespace AgendadorVacina
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddDbContext<AgendadorVacinaContext>(options =>
+            options.UseSqlite(Configuration.GetConnectionString("AgendadorVacinaContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
