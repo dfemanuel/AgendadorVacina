@@ -15623,8 +15623,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Usuario\\Create.cshtml",
+      "TargetPath": "Views\\Usuario\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Local\\Create.cshtml",
+      "TargetPath": "Views\\Local\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Usuario\\Edit.cshtml",
+      "TargetPath": "Views\\Usuario\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Local\\Delete.cshtml",
+      "TargetPath": "Views\\Local\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Paciente\\Details.cshtml",
+      "TargetPath": "Views\\Paciente\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15633,8 +15658,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Local\\Edit.cshtml",
+      "TargetPath": "Views\\Local\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\AgendadorVacina\\Index.cshtml",
       "TargetPath": "Views\\AgendadorVacina\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Paciente\\Delete.cshtml",
+      "TargetPath": "Views\\Paciente\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Paciente\\Edit.cshtml",
+      "TargetPath": "Views\\Paciente\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Paciente\\Create.cshtml",
+      "TargetPath": "Views\\Paciente\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15643,8 +15688,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Usuario\\Details.cshtml",
+      "TargetPath": "Views\\Usuario\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Local\\Details.cshtml",
+      "TargetPath": "Views\\Local\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Usuario\\Delete.cshtml",
+      "TargetPath": "Views\\Usuario\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
