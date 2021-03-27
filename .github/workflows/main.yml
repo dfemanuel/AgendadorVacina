@@ -1,0 +1,13 @@
+name: Commit on PR
+
+on: pull_request
+
+jobs:
+  comentario:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Comment na PR
+      uses: thollander/actions-comment-pull-request@master
+      with:
+         message: "Obrigado por ter feito o Pull Request"
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
