@@ -1,4 +1,4 @@
-name: Commit on PR
+name: Commit no PR
 
 on: pull_request
 jobs:
