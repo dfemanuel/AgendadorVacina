@@ -9,5 +9,5 @@ jobs:
       - name: Comment na PR
         uses: thollander/actions-comment-pull-request@master
         with:
-          message: 'Mensagem de teste'
+          message: 'Mensagem de teste 1'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
