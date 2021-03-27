@@ -183,3 +183,4 @@ C:\Users\emanueldantas\Desktop\Emanuel\Estudos\uni7\Integração Contínua\Agend
 C:\Users\emanueldantas\Desktop\Emanuel\Estudos\uni7\Integração Contínua\AgendadorVacina\obj\Debug\net5.0\Razor\Views\Usuario\Delete.cshtml.g.cs
 C:\Users\emanueldantas\Desktop\Emanuel\Estudos\uni7\Integração Contínua\AgendadorVacina\obj\Debug\net5.0\Razor\Views\Usuario\Details.cshtml.g.cs
 C:\Users\emanueldantas\Desktop\Emanuel\Estudos\uni7\Integração Contínua\AgendadorVacina\obj\Debug\net5.0\Razor\Views\Usuario\Edit.cshtml.g.cs
+C:\Users\emanueldantas\Desktop\Emanuel\Estudos\uni7\Integração Contínua\AgendadorVacina\obj\Debug\net5.0\Razor\Views\Local\ListagemVagas.cshtml.g.cs

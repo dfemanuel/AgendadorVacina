@@ -15718,6 +15718,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Local\\ListagemVagas.cshtml",
+      "TargetPath": "Views\\Local\\ListagemVagas.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\emanueldantas\\Desktop\\Emanuel\\Estudos\\uni7\\Integração Contínua\\AgendadorVacina\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

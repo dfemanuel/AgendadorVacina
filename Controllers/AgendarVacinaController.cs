@@ -10,6 +10,7 @@ namespace AgendadorVacina.Controllers
             return View();
         }
 
+        //Método de teste
         public IActionResult Welcome(string name, int numTimes = 1)
         {
             ViewData["Message"] = "Hello " + name;

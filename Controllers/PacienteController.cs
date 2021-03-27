@@ -145,6 +145,7 @@ namespace AgendadorVacina.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+
         private bool PacienteExists(int id)
         {
             return _context.Paciente.Any(e => e.Id == id);
